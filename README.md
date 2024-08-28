@@ -14,7 +14,6 @@ Starting Balance: 30
 |14/06/24 am  | 17/06/24 am  |   2    | 21      |Approved|
 |14/08/24 am  | 16/08/24 am  |   3    | 18      |Approved|
 
-
 ### Wellness Days
 |Start Date   | End Date     | # Days | Balance | Status |
 |-------------|--------------|--------|---------|--------|
