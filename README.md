@@ -8,7 +8,7 @@ Starting Balance: 36
 
 |Start Date   | End Date     | # Days | Balance | Status |
 |-------------|--------------|--------|---------|--------|
-|xx am  | xx am  |   xx    | xx      ||
+|24/01/25 am  | 24/01/25 pm  |   1    | 35      |Requested|
 
 ## 2024
 
