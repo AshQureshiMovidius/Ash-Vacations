@@ -9,7 +9,7 @@ Starting Balance: 36
 |Start Date   | End Date     | # Days | Balance | Status |
 |-------------|--------------|--------|---------|--------|
 |24/01/25 am  | 24/01/25 pm  |   1    | 35      |Approved|
-|20/03/25 am  | 21/03/25 pm  |   2    | 33      |Requested|
+|20/03/25 am  | 21/03/25 pm  |   2    | 33      |Approved|
 
 ## 2024
 
