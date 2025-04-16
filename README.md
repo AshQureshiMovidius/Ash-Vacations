@@ -11,7 +11,7 @@ Starting Balance: 36
 |24/01/25 am  | 24/01/25 pm  |   1    | 35      |Approved|
 |20/03/25 am  | 21/03/25 pm  |   2    | 33      |Approved|
 |27/03/25 am  | 31/03/25 pm  |   2    | 31      |Approved|
-|22/04/25 am  | 25/04/25 pm  |   4    | 27      |Requested|
+|22/04/25 am  | 25/04/25 pm  |   4    | 27      |Approved|
 
 ## 2024
 
