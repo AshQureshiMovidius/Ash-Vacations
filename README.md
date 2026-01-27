@@ -7,7 +7,7 @@ Balance Carried Over: 8.5
 Starting Balance: 33.5
 |Start Date   | End Date     | # Days | Balance | Status |
 |-------------|--------------|--------|---------|--------|
-|30/01/26 am  | 30/01/26 am  |   0.5  | 33      |Requested|
+|30/01/26 am  | 30/01/26 am  |   0.5  | 33      |Approved|
 
 ## 2025
 ### Vacation
