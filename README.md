@@ -8,6 +8,7 @@ Starting Balance: 33.5
 |Start Date   | End Date     | # Days | Balance | Status |
 |-------------|--------------|--------|---------|--------|
 |30/01/26 am  | 30/01/26 am  |   0.5  | 33      |Approved|
+|20/02/26 pm  | 20/02/26 pm  |   0.5  | 32.5    |Requested|
 
 ## 2025
 ### Vacation
