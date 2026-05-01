@@ -15,7 +15,7 @@ Starting Balance: 33.5
 ### Wellness Days
 |Start Date   | End Date     | # Days | Balance | Status |
 |-------------|--------------|--------|---------|--------|
-|05/05/26 am  | 05/05/26 pm   |   1  | 2     |Requested|
+|05/05/26 am  | 05/05/26 pm   |   1  | 2     |Approved|
 
 ## 2025
 ### Vacation
