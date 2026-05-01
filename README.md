@@ -12,6 +12,11 @@ Starting Balance: 33.5
 |13/03/26 pm  | 13/03/26 pm  |   1    | 31.5    |Approved|
 |30/03/26 pm  | 31/03/26 pm  |   1.5  | 30      |Approved|
 
+### Wellness Days
+|Start Date   | End Date     | # Days | Balance | Status |
+|-------------|--------------|--------|---------|--------|
+|05/05/26 am  | 05/05/26 pm   |   1  | 2     |Requested|
+
 ## 2025
 ### Vacation
 Balance Carried Over: 11
