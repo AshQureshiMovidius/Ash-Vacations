@@ -11,6 +11,7 @@ Starting Balance: 33.5
 |20/02/26 pm  | 20/02/26 pm  |   0.5  | 32.5    |Approved|
 |13/03/26 pm  | 13/03/26 pm  |   1    | 31.5    |Approved|
 |30/03/26 pm  | 31/03/26 pm  |   1.5  | 30      |Approved|
+|11/06/26 pm  | 18/06/26 pm  |   6    | 24      |Requested|
 
 ### Wellness Days
 |Start Date   | End Date     | # Days | Balance | Status |
